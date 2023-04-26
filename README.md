@@ -6,3 +6,4 @@ Creating a personal blog with Django at Back-end Python Ebac's course.
 ## 3 - Django Views - created
 ## 4 - Django Admin - working
 ## 5 - Django Templates - working
+## 6 - Djando Forms - final, adding forms to comment in posts.
